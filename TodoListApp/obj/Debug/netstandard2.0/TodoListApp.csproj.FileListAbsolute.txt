@@ -1,0 +1,14 @@
+/Users/Amuleka/Projects/TodoListApp/TodoListApp/TodoListApp/bin/Debug/netstandard2.0/TodoListApp.deps.json
+/Users/Amuleka/Projects/TodoListApp/TodoListApp/TodoListApp/bin/Debug/netstandard2.0/TodoListApp.dll
+/Users/Amuleka/Projects/TodoListApp/TodoListApp/TodoListApp/bin/Debug/netstandard2.0/ref/TodoListApp.dll
+/Users/Amuleka/Projects/TodoListApp/TodoListApp/TodoListApp/bin/Debug/netstandard2.0/TodoListApp.pdb
+/Users/Amuleka/Projects/TodoListApp/TodoListApp/TodoListApp/obj/Debug/netstandard2.0/TodoListApp.csproj.AssemblyReference.cache
+/Users/Amuleka/Projects/TodoListApp/TodoListApp/TodoListApp/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/Amuleka/Projects/TodoListApp/TodoListApp/TodoListApp/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/Amuleka/Projects/TodoListApp/TodoListApp/TodoListApp/obj/Debug/netstandard2.0/TodoListApp.AssemblyInfoInputs.cache
+/Users/Amuleka/Projects/TodoListApp/TodoListApp/TodoListApp/obj/Debug/netstandard2.0/TodoListApp.AssemblyInfo.cs
+/Users/Amuleka/Projects/TodoListApp/TodoListApp/TodoListApp/obj/Debug/netstandard2.0/TodoListApp.csproj.CoreCompileInputs.cache
+/Users/Amuleka/Projects/TodoListApp/TodoListApp/TodoListApp/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/Amuleka/Projects/TodoListApp/TodoListApp/TodoListApp/obj/Debug/netstandard2.0/TodoListApp.dll
+/Users/Amuleka/Projects/TodoListApp/TodoListApp/TodoListApp/obj/Debug/netstandard2.0/ref/TodoListApp.dll
+/Users/Amuleka/Projects/TodoListApp/TodoListApp/TodoListApp/obj/Debug/netstandard2.0/TodoListApp.pdb
